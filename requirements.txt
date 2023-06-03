@@ -1,0 +1,4 @@
+pandas
+pickleshare
+scikit-learn
+flask
